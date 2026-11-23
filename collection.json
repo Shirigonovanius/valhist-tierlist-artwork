@@ -1,0 +1,8 @@
+{
+  "name": "Valhist Tierlist",
+  "description": "865 illustrated cards from Valhist’s tierlist. Each card carries its original rank and, where Valhist wrote one, his note. Only the person behind the corresponding X account can claim the card.",
+  "image": "https://raw.githubusercontent.com/Shirigonovanius/valhist-tierlist-artwork/53ccdd6f4392cecab9341fb1417dcb9139ec76ba/branding/logo-wink.gif",
+  "banner_image": "https://raw.githubusercontent.com/Shirigonovanius/valhist-tierlist-artwork/53ccdd6f4392cecab9341fb1417dcb9139ec76ba/branding/banner-desktop.jpg",
+  "external_link": "https://valhist-tierlist.gto2fe.chatgpt.site/",
+  "seller_fee_basis_points": 0
+}
